@@ -7,7 +7,7 @@ import dropdown from "../../../public/images/dropdown.png";
 
 export default function HeaderUser() {
   return (
-    <div className="bg-[#F3B78C] flex justify-between">
+    <div className="bg-[#F3B78C] flex justify-between py-2 px-1">
       <Image src={fptLogo} alt="logo" />
       <div className="flex items-center gap-x-2">
         <div>
